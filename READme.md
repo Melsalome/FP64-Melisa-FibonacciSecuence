@@ -10,3 +10,5 @@ ha simplificado las funciones y eliminado lo que se repetia-
 4- No se agrega contexto innecesario y no se repite la información o acción. 
 
 5- Se mantiene la consistencia-
+
+6- Se utilizan diferentes caracteristicas para identificar un método público del privado.
